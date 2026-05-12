@@ -46,8 +46,7 @@ Organization Unit: IT, Sales and HR Created:  <br/>
 <img src="https://imgur.com/6TsTV9o.png" height="80%" width="80%" alt="OU Created"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
 </p>
 
 <!--
