@@ -13,7 +13,6 @@ An Active Directory homelab using virtualbox
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> 
-
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -21,12 +20,16 @@ Launch the utility: <br/>
 <img src="https://imgur.com/JOeeSYc.png" height="80%" width="80%" alt="launch window"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+AD Installed & DC Promoted:  <br/>
+<img src="https://imgur.com/MvvmQ4a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating a User:  <br/>
+<img src="https://imgur.com/icFohYM.png" height="80%" width="80%" alt="User Creation"/>
+<br />
+<br />
+User Password Change: <br/>
+<img src="https://imgur.com/8ONChJv.png" height="80%" width="80%" alt="Password Change"/>
 <br />
 <br />
 Confirm your selection:  <br/>
