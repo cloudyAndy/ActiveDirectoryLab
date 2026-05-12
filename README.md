@@ -21,7 +21,7 @@ Launch the utility: <br/>
 <br />
 <br />
 AD Installed & DC Promoted:  <br/>
-<img src="https://imgur.com/MvvmQ4a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/MvvmQ4a.png" height="80%" width="80%" alt="AD DC Promoted"/>
 <br />
 <br />
 Creating a User:  <br/>
@@ -32,16 +32,18 @@ User Password Change: <br/>
 <img src="https://imgur.com/8ONChJv.png" height="80%" width="80%" alt="Password Change"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Group Policy Changed/Enforced:  <br/>
+<img src="https://imgur.com/aPH1lRD.png" height="80%" width="80%" alt="Group policy"/>
+<img src="https://imgur.com/SoXKlGN.png" height="80%" width="80%" alt="Group policy Changed"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Security Group Creation & Users added:  <br/>
+<img src="https://imgur.com/3HdhmMx.png" height="80%" width="80%" alt="Security Group Created"/>
+<img src="https://imgur.com/3T0auoj.png" height="80%" width="80%" alt="Security Group Users added"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Organization Unit: IT, Sales and HR Created:  <br/>
+<img src="https://imgur.com/6TsTV9o.png" height="80%" width="80%" alt="OU Created"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
